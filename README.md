@@ -51,3 +51,29 @@ The git commit messages must be in the proper form, such as:
 - Higher velocity means there is more time of project work during the work day
 - Lower velocity means there is less time of developing during the work day.  
 
+## Utopian vs. Real-world Days  
+
+**Utopian Days**  
+- Programmers think in utopian days  
+- Better-than-best case scenario  
+- Underestimating  
+
+**Real-World Days**  
+- Developers think in real-world days  
+- Accounting for velocity, overhead, deadlines when making estimates  
+
+## Iteration and Deadline Planning  
+
+## Velocity  
+Time during work that consists of developing and working on projects only.
+
+- Accounts for overhead; trainings, meetings, and holidays
+- Formula: X developers * X working days * X velocity  
+- X working days * iterations = total days  
+
+## Big Board  
+
+- Dashboard on the wall that keeps track of what is in the pipeline, what is in progress, and what is done.  
+- Will display burn down and user stories  
+
+
