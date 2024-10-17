@@ -50,6 +50,7 @@ The git commit messages must be in the proper form, such as:
 - Accounts for overhead; percentage of the day where you actually developing.  
 - Higher velocity means there is more time of project work during the work day
 - Lower velocity means there is less time of developing during the work day.  
+- Best to be on the conservative side; how much your team works, for real.
 
 ## Utopian vs. Real-world Days  
 
@@ -64,16 +65,25 @@ The git commit messages must be in the proper form, such as:
 
 ## Iteration and Deadline Planning  
 
-## Velocity  
-Time during work that consists of developing and working on projects only.
+## Estimation  
+Estimates are supposed to realistically lay out a time frame of how long a user story should take. Keep under 15 days for accuracy.  
 
-- Accounts for overhead; trainings, meetings, and holidays
-- Formula: X developers * X working days * X velocity  
-- X working days * iterations = total days  
+- Play Planning Poker:  
+    - Start by displaying the user story  
+    - Each take out a card and pick a number of days you think the user story will take without discussing it  
+    - Turn over your cards simueltaneously  
+    - Mark down a spread of all team members estimates
+    - Discuss the reason for your estimate  
+    - Try to eliminate as many assumptions as possible when agreeing on a final estimate  
 
-## Big Board  
+## Use Case and Use Case Diagram  
+Description of a system's behavior as it responds to a request that originates from outside of that system. 
+Use cases represent the functional requirements of the system. 
 
-- Dashboard on the wall that keeps track of what is in the pipeline, what is in progress, and what is done.  
-- Will display burn down and user stories  
+- Previously stated as User Stories
+- Describes what the system is supposed to do
+- Often is given in English (i.e., not in a formal language)
+- If a system does not meet the actual requirements, then it has failed  
 
+![alt text](image.png)
 
