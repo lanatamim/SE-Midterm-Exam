@@ -45,3 +45,9 @@ The git commit messages must be in the proper form, such as:
 - Dashboard on the wall that tracks what is in the pipeline, what is in progress, and what is done.
 - Displays burn down and user stories.
 
+## Velocity  
+
+- Accounts for overhead; percentage of the day where you actually developing.  
+- Higher velocity means there is more time of project work during the work day
+- Lower velocity means there is less time of developing during the work day.  
+
