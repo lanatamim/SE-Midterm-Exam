@@ -2,7 +2,7 @@
 *You are going to do so good on this midterm!!*  
 
 ## Version Control  
-*Version control is a tool (usually a piece of software) that will keep track of changes to your files and help you coordinate different developers working on different parts of your system at the same time.
+Version control is a tool (usually a piece of software) that will keep track of changes to your files and help you coordinate different developers working on different parts of your system at the same time.
 
 **Job**  
 - Coordinating source code for a particular release
@@ -38,4 +38,10 @@ The git commit messages must be in the proper form, such as:
 
 **Compare and Contast SRP & DRY**  
 - They are related and work in conjuction ensure functionality.  
-- DRY is about putting a piece of functionality in a single place, such as a class; SRP is about making sure that a class does only one thing, and that it does that one thing well.
+- DRY is about putting a piece of functionality in a single place, such as a class; SRP is about making sure that a class does only one thing, and that it does that one thing well.  
+
+## Big Board
+
+- Dashboard on the wall that tracks what is in the pipeline, what is in progress, and what is done.
+- Displays burn down and user stories.
+
